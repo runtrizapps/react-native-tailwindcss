@@ -1,4 +1,4 @@
-import { colors } from '../../tailwind'
+import { colors } from './config'
 import helper from './helper'
 
 let colorList = {}

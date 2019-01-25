@@ -18,7 +18,7 @@ import {
   tracking,
   width,
   zIndex
-} from '../../tailwind'
+} from './config'
 import { StyleSheet } from 'react-native'
 import helper from './helper'
 import colors from './color'
